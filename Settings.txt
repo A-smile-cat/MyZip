@@ -1,0 +1,3 @@
+defaultName=new.zip
+defaultFilePath=C:\Users\smilecat\Desktop\
+unZipMode=1
